@@ -1,0 +1,4 @@
+
+# Una URL por línea
+https://empresa-ejemplo.com/
+https://otra-empresa-ejemplo.com/servicios

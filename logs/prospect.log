@@ -1,0 +1,7 @@
+2026-10-11 11:47:53,166 WARNING Error consultando robots.txt https://empresa-ejemplo.com/: HTTPSConnectionPool(host='empresa-ejemplo.com', port=443): Max retries exceeded with url: /robots.txt (Caused by NameResolutionError("HTTPSConnection(host='empresa-ejemplo.com', port=443): Failed to resolve 'empresa-ejemplo.com' ([Errno 11001] getaddrinfo failed)"))
+2026-10-11 11:47:53,167 INFO No se rastrea por robots.txt: https://empresa-ejemplo.com/
+2026-10-11 11:47:53,234 WARNING Error consultando robots.txt https://otra-empresa-ejemplo.com/servicios: HTTPSConnectionPool(host='otra-empresa-ejemplo.com', port=443): Max retries exceeded with url: /robots.txt (Caused by NameResolutionError("HTTPSConnection(host='otra-empresa-ejemplo.com', port=443): Failed to resolve 'otra-empresa-ejemplo.com' ([Errno 11001] getaddrinfo failed)"))
+2026-10-11 11:47:53,235 INFO No se rastrea por robots.txt: https://otra-empresa-ejemplo.com/servicios
+2026-10-11 11:47:53,256 INFO Exportación finalizada: C:\Users\satel\AurexcodeBots\exports\prospects.csv
+2026-10-11 13:03:42,169 INFO Omitida por robots.txt o verificación fallida: https://empresa-ejemplo.com/
+2026-10-11 13:03:42,236 INFO Omitida por robots.txt o verificación fallida: https://otra-empresa-ejemplo.com/servicios
